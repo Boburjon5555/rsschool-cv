@@ -17,4 +17,4 @@
    No
 
 ## Languages
-   English Russian
+   English Russian Turkish
