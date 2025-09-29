@@ -8,7 +8,7 @@
    improve skills in real project
 
 ## Skills 
-   HTML CSS JS GIT Github React  
+   HTML CSS JS GIT Sass Github React  
 
 ## Experience 
    little bit
