@@ -1,11 +1,20 @@
 #  Olimov Boburjon  
 
 ## Contacts
-  gmail: muhammadali muhammadov728@gmail.com
-  telegram: Muhammadbobur55
+   gmail: muhammadali muhammadov728@gmail.com
+   telegram: Muhammadbobur55
 
 ## objective
-  real loyahalarda tajriba orttirish
+   improve skills in real project
 
 ## Skills 
-  HTML CSS JS GIT React  
+   HTML CSS JS GIT Github React  
+
+## Experience 
+   little bit
+
+## Education
+   No
+
+## Languages
+   English Russian
